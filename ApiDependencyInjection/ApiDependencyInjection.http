@@ -1,0 +1,6 @@
+@ApiDependencyInjection_HostAddress = http://localhost:5128
+
+GET {{ApiDependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
